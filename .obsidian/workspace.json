@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f9cc19efcda0cfa2",
+        "id": "a29da76eb5f504e7",
         "type": "tabs",
         "children": [
           {
-            "id": "9e14066d80a811b0",
+            "id": "991ec18d5e48c27b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advogados Sp/Advocacia Trabalhista Borges.md",
+                "file": "Dashboard de Vendas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advocacia Trabalhista Borges"
+              "title": "Dashboard de Vendas"
             }
           }
         ]
@@ -174,13 +174,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "5f66c2ff82516eb5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,14 +205,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e14066d80a811b0",
+  "active": "991ec18d5e48c27b",
   "lastOpenFiles": [
     "Kanban de Vendas.md",
+    "Sem título.base",
+    "2026-W32.md",
+    "Advogados Sp/Advocacia Trabalhista Borges.md",
     "USA - Solo-Small Law Firms/John M. Lane Law, PLLC.md",
     "Clinicas Saude Sp/Clinic (clinicspa.com.br).md",
     "Advogados Sp/Advocacia Schettini.md",
     "Advogados Sp/Barbosa & Veiga Advogados Associados.md",
-    "Advogados Sp/Advocacia Trabalhista Borges.md",
     "Dashboard de Vendas.md",
     "USA - Solo-Small Law Firms/Rech Law, P.C..md",
     "Clinicas Saude Sp/Clínica de Estética Tatuapé (MAB Clinic).md",
