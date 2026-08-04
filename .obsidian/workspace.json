@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard de Vendas.md",
+                "file": "Diário/2026-08-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard de Vendas"
+              "title": "2026-08-04"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -166,16 +168,6 @@
             }
           },
           {
-            "id": "4b2e076e1f6fdd85",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "5f66c2ff82516eb5",
             "type": "leaf",
             "state": {
@@ -184,13 +176,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "93c58064e406ec33",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 424.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,31 +209,41 @@
   },
   "active": "991ec18d5e48c27b",
   "lastOpenFiles": [
-    "Kanban de Vendas.md",
-    "Sem título.base",
-    "2026-W32.md",
-    "Advogados Sp/Advocacia Trabalhista Borges.md",
-    "USA - Solo-Small Law Firms/John M. Lane Law, PLLC.md",
-    "Clinicas Saude Sp/Clinic (clinicspa.com.br).md",
-    "Advogados Sp/Advocacia Schettini.md",
-    "Advogados Sp/Barbosa & Veiga Advogados Associados.md",
     "Dashboard de Vendas.md",
-    "USA - Solo-Small Law Firms/Rech Law, P.C..md",
-    "Clinicas Saude Sp/Clínica de Estética Tatuapé (MAB Clinic).md",
-    "Arquitetos Sp/Suna Arquitetura.md",
-    "Untitled Kanban.md",
-    "Saloes Barbearias Sp/Santo Barbearia Clássica.md",
-    "Saloes Barbearias Sp/Premium Barbearia.md",
-    "Saloes Barbearias Sp/Barbearia Vera Cruz.md",
-    "Saloes Barbearias Sp/Barbeiro da Vila.md",
-    "Saloes Barbearias Sp/Barbearia Tarantino.md",
-    "Saloes Barbearias Sp/Dennis Beauty.md",
-    "Saloes Barbearias Sp/Studio Daniela Queiroz.md",
-    "Saloes Barbearias Sp/Seven Salon.md",
-    "Saloes Barbearias Sp/São Paulo Barbearia.md",
-    "Saloes Barbearias Sp/Barbearia Barbalhada - Guaipá.md",
-    "Arquitetos Sp/Ampia Design.md",
-    "Arquitetos Sp/Bove Arquitetura.md",
-    "USA - Barbershops/Big League Barbershop Downtown Tampa.md"
+    "Kanban de Vendas.md",
+    "Diário/2026-08-04.md",
+    "CMOC/Projetos Kanban.md",
+    "Freelancer/USA - Solo-Small Law Firms/The Blake Law Firm.md",
+    "Freelancer/USA - Solo-Small Law Firms/TAW Law TX (Law Office of Todd A. Wilson).md",
+    "Freelancer/USA - Solo-Small Law Firms/Rech Law, P.C..md",
+    "Freelancer/USA - Solo-Small Law Firms/Olsinski Law Firm.md",
+    "Freelancer/USA - Solo-Small Law Firms/John M. Lane Law, PLLC.md",
+    "Freelancer/USA - Solo-Small Law Firms/Grogan Law, PLLC.md",
+    "Freelancer/USA - Solo-Small Law Firms",
+    "Freelancer/USA - Personal Trainer-Pilates/Pilates of Charlotte.md",
+    "Freelancer/USA - Personal Trainer-Pilates/MONTANA  ATX Personal Trainer.md",
+    "Freelancer/USA - Personal Trainer-Pilates/Generator Athlete Lab.md",
+    "Freelancer/USA - Personal Trainer-Pilates/Core Burn Pilates (Charlotte).md",
+    "Freelancer/USA - Personal Trainer-Pilates/Chris Protein PT.md",
+    "Freelancer/USA - Personal Trainer-Pilates/Charlotte Pilates.md",
+    "Freelancer/USA - Personal Trainer-Pilates/BK Pilates Charlotte.md",
+    "Freelancer/USA - Personal Trainer-Pilates/Austin Simply Fit.md",
+    "Freelancer/USA - Personal Trainer-Pilates/Austin Art of Fitness.md",
+    "Freelancer/USA - Personal Trainer-Pilates",
+    "Freelancer/USA - Boutique Architecture/Vanguard Studio, Inc..md",
+    "Freelancer/USA - Boutique Architecture/Scott Wilson Architect LLC.md",
+    "Freelancer/USA - Boutique Architecture/Nine12 Architects.md",
+    "Freelancer/USA - Boutique Architecture/Motif Architects.md",
+    "Freelancer/USA - Boutique Architecture/Lowen+Associates, LLC.md",
+    "Freelancer/USA - Boutique Architecture/Architecture By George.md",
+    "Freelancer/USA - Boutique Architecture/ArchiNerd PLLC.md",
+    "Freelancer/USA - Boutique Architecture",
+    "Freelancer/USA - Barbershops",
+    "Freelancer/Saloes Barbearias Sp",
+    "Freelancer/Personal Pilates Sp",
+    "Freelancer/Clinicas Saude Sp",
+    "Freelancer/Arquitetos Sp",
+    "Freelancer/Advogados Sp",
+    "CMOC"
   ]
 }
