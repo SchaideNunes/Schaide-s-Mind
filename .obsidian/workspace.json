@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "75544ea63a68b823",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9cc19efcda0cfa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e14066d80a811b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advogados Sp/Advocacia Trabalhista Borges.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advocacia Trabalhista Borges"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0814f31428ef312d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c85570ff9496f5bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e4ec356be154cb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "8fb304d55fc32dfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "350ed5a01783f52a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f872da81d7324f97",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8f2e1bc805b6d80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "533aec1611d053d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Saloes Barbearias Sp/Santo Barbearia Clássica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Santo Barbearia Clássica"
+            }
+          },
+          {
+            "id": "d59b473e16f33254",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Saloes Barbearias Sp/Santo Barbearia Clássica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Santo Barbearia Clássica"
+            }
+          },
+          {
+            "id": "c82d84f9b3c5a2f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "0759e6ee561f5930",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "99cb68ae9360d628",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Saloes Barbearias Sp/Santo Barbearia Clássica.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Santo Barbearia Clássica"
+            }
+          },
+          {
+            "id": "4b2e076e1f6fdd85",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9e14066d80a811b0",
+  "lastOpenFiles": [
+    "Kanban de Vendas.md",
+    "USA - Solo-Small Law Firms/John M. Lane Law, PLLC.md",
+    "Clinicas Saude Sp/Clinic (clinicspa.com.br).md",
+    "Advogados Sp/Advocacia Schettini.md",
+    "Advogados Sp/Barbosa & Veiga Advogados Associados.md",
+    "Advogados Sp/Advocacia Trabalhista Borges.md",
+    "Dashboard de Vendas.md",
+    "USA - Solo-Small Law Firms/Rech Law, P.C..md",
+    "Clinicas Saude Sp/Clínica de Estética Tatuapé (MAB Clinic).md",
+    "Arquitetos Sp/Suna Arquitetura.md",
+    "Untitled Kanban.md",
+    "Saloes Barbearias Sp/Santo Barbearia Clássica.md",
+    "Saloes Barbearias Sp/Premium Barbearia.md",
+    "Saloes Barbearias Sp/Barbearia Vera Cruz.md",
+    "Saloes Barbearias Sp/Barbeiro da Vila.md",
+    "Saloes Barbearias Sp/Barbearia Tarantino.md",
+    "Saloes Barbearias Sp/Dennis Beauty.md",
+    "Saloes Barbearias Sp/Studio Daniela Queiroz.md",
+    "Saloes Barbearias Sp/Seven Salon.md",
+    "Saloes Barbearias Sp/São Paulo Barbearia.md",
+    "Saloes Barbearias Sp/Barbearia Barbalhada - Guaipá.md",
+    "Arquitetos Sp/Ampia Design.md",
+    "Arquitetos Sp/Bove Arquitetura.md",
+    "USA - Barbershops/Big League Barbershop Downtown Tampa.md"
+  ]
+}
