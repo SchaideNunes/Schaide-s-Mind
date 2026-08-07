@@ -22,8 +22,47 @@
               "icon": "lucide-trello",
               "title": "Projetos Kanban"
             }
+          },
+          {
+            "id": "9dc32b4754135485",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "CMOC/Projetos Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    null,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Projetos Kanban"
+            }
+          },
+          {
+            "id": "254daefac1b7768f",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "CMOC/Projetos Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    null,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Projetos Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,12 +248,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f66c2ff82516eb5",
+  "active": "254daefac1b7768f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Projetos/Cinema_cariri",
+    "Projetos",
+    "CMOC/Projetos Kanban.md",
     "Kanban de Vendas.md",
     "Calendário/2026-08-04.md",
     "Dashboard de Vendas.md",
-    "CMOC/Projetos Kanban.md",
     "Calendário",
     "Diário/2026-08-04.md",
     "Freelancer/USA - Solo-Small Law Firms/The Blake Law Firm.md",
@@ -238,14 +280,10 @@
     "Freelancer/USA - Boutique Architecture/Scott Wilson Architect LLC.md",
     "Freelancer/USA - Boutique Architecture/Nine12 Architects.md",
     "Freelancer/USA - Boutique Architecture/Motif Architects.md",
-    "Freelancer/USA - Boutique Architecture/Lowen+Associates, LLC.md",
-    "Freelancer/USA - Boutique Architecture/Architecture By George.md",
     "Freelancer/USA - Boutique Architecture",
     "Freelancer/USA - Barbershops",
     "Freelancer/Saloes Barbearias Sp",
     "Freelancer/Personal Pilates Sp",
-    "Freelancer/Clinicas Saude Sp",
-    "Freelancer/Arquitetos Sp",
-    "Freelancer/Advogados Sp"
+    "Freelancer/Clinicas Saude Sp"
   ]
 }
