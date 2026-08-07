@@ -46,19 +46,10 @@
             "id": "254daefac1b7768f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "CMOC/Projetos Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    null,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Projetos Kanban"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ],
@@ -250,10 +241,14 @@
   },
   "active": "254daefac1b7768f",
   "lastOpenFiles": [
+    "Projetos/Kanban Projetos.md",
+    "Projetos/Cinema_cariri/Cinema Cariri.md",
+    "Projetos/Cinema_cariri/Ideias e Tarefas.md",
+    "Projetos/REGRAS_IA.md",
+    "CMOC/Projetos Kanban.md",
     "conflict-files-obsidian-git.md",
     "Projetos/Cinema_cariri",
     "Projetos",
-    "CMOC/Projetos Kanban.md",
     "Kanban de Vendas.md",
     "Calendário/2026-08-04.md",
     "Dashboard de Vendas.md",
@@ -277,9 +272,6 @@
     "Freelancer/USA - Personal Trainer-Pilates/Austin Art of Fitness.md",
     "Freelancer/USA - Personal Trainer-Pilates",
     "Freelancer/USA - Boutique Architecture/Vanguard Studio, Inc..md",
-    "Freelancer/USA - Boutique Architecture/Scott Wilson Architect LLC.md",
-    "Freelancer/USA - Boutique Architecture/Nine12 Architects.md",
-    "Freelancer/USA - Boutique Architecture/Motif Architects.md",
     "Freelancer/USA - Boutique Architecture",
     "Freelancer/USA - Barbershops",
     "Freelancer/Saloes Barbearias Sp",
