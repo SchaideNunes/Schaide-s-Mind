@@ -11,14 +11,16 @@
             "id": "991ec18d5e48c27b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Diário/2026-08-04.md",
-                "mode": "source",
-                "source": false
+                "file": "CMOC/Projetos Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-08-04"
+              "icon": "lucide-trello",
+              "title": "Projetos Kanban"
             }
           }
         ]
@@ -207,12 +209,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "991ec18d5e48c27b",
+  "active": "5f66c2ff82516eb5",
   "lastOpenFiles": [
-    "Dashboard de Vendas.md",
     "Kanban de Vendas.md",
-    "Diário/2026-08-04.md",
+    "Calendário/2026-08-04.md",
+    "Dashboard de Vendas.md",
     "CMOC/Projetos Kanban.md",
+    "Calendário",
+    "Diário/2026-08-04.md",
     "Freelancer/USA - Solo-Small Law Firms/The Blake Law Firm.md",
     "Freelancer/USA - Solo-Small Law Firms/TAW Law TX (Law Office of Todd A. Wilson).md",
     "Freelancer/USA - Solo-Small Law Firms/Rech Law, P.C..md",
@@ -236,14 +240,12 @@
     "Freelancer/USA - Boutique Architecture/Motif Architects.md",
     "Freelancer/USA - Boutique Architecture/Lowen+Associates, LLC.md",
     "Freelancer/USA - Boutique Architecture/Architecture By George.md",
-    "Freelancer/USA - Boutique Architecture/ArchiNerd PLLC.md",
     "Freelancer/USA - Boutique Architecture",
     "Freelancer/USA - Barbershops",
     "Freelancer/Saloes Barbearias Sp",
     "Freelancer/Personal Pilates Sp",
     "Freelancer/Clinicas Saude Sp",
     "Freelancer/Arquitetos Sp",
-    "Freelancer/Advogados Sp",
-    "CMOC"
+    "Freelancer/Advogados Sp"
   ]
 }
