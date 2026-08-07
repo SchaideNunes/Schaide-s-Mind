@@ -16,7 +16,10 @@
                 "file": "CMOC/Projetos Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
-                  "list-collapse": []
+                  "list-collapse": [
+                    null,
+                    false
+                  ]
                 }
               },
               "icon": "lucide-trello",
@@ -194,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e4ec356be154cb2",
+  "active": "991ec18d5e48c27b",
   "lastOpenFiles": [
     "Diário/2026-08-04.md",
     "Dashboard de Vendas.md",
