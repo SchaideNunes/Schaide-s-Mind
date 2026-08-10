@@ -9,11 +9,8 @@ kanban-plugin: board
 - [ ] Aplicativo Horimetros
 - [ ] Desktop - Compra direta
 - [ ] Relatorios tanques
-- [ ] Gerenciamento Requisições
-- [ ] Custo planta
 - [ ] Desktop indicadores - colaborador
 - [ ] Checklist Correias
-- [ ] HUB Planta
 - [ ] Gestão PPCM
 - [ ] Inspeção Barragem
 
@@ -34,10 +31,17 @@ kanban-plugin: board
 
 
 
+## Migrados
+
+- [ ] HUB Planta
+- [ ] Gerenciamento Requisições
+- [ ] Custo planta
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null,false]}
+{"kanban-plugin":"board","list-collapse":[null,false,false]}
 ```
 %%
