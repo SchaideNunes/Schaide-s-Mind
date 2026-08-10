@@ -8,23 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "991ec18d5e48c27b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "CMOC/Projetos Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Projetos Kanban"
-            }
-          },
-          {
-            "id": "9dc32b4754135485",
+            "id": "254daefac1b7768f",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -41,19 +25,8 @@
               "icon": "lucide-trello",
               "title": "Projetos Kanban"
             }
-          },
-          {
-            "id": "254daefac1b7768f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,8 +214,9 @@
   },
   "active": "254daefac1b7768f",
   "lastOpenFiles": [
-    "Projetos/Kanban Projetos.md",
     "Projetos/Cinema_cariri/Cinema Cariri.md",
+    "Projetos/Kanban Projetos.md",
+    "Dashboard de Vendas.md",
     "Projetos/Cinema_cariri/Ideias e Tarefas.md",
     "Projetos/REGRAS_IA.md",
     "CMOC/Projetos Kanban.md",
@@ -251,7 +225,6 @@
     "Projetos",
     "Kanban de Vendas.md",
     "Calendário/2026-08-04.md",
-    "Dashboard de Vendas.md",
     "Calendário",
     "Diário/2026-08-04.md",
     "Freelancer/USA - Solo-Small Law Firms/The Blake Law Firm.md",
