@@ -11,49 +11,13 @@
             "id": "991ec18d5e48c27b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "CMOC/Projetos Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Projetos Kanban"
-            }
-          },
-          {
-            "id": "9dc32b4754135485",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "CMOC/Projetos Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    null,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Projetos Kanban"
-            }
-          },
-          {
-            "id": "254daefac1b7768f",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f872da81d7324f97",
@@ -224,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,21 +203,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "254daefac1b7768f",
+  "active": "5f66c2ff82516eb5",
   "lastOpenFiles": [
-    "Projetos/Kanban Projetos.md",
-    "Projetos/Cinema_cariri/Cinema Cariri.md",
-    "Projetos/Cinema_cariri/Ideias e Tarefas.md",
-    "Projetos/REGRAS_IA.md",
     "CMOC/Projetos Kanban.md",
-    "conflict-files-obsidian-git.md",
+    "Kanban de Vendas.md",
+    "Projetos/Kanban Projetos.md",
+    "Projetos/REGRAS_IA.md",
+    "Calendário/2026-08-04.md",
+    "Projetos/Cinema_cariri/Cinema Cariri.md",
     "Projetos/Cinema_cariri",
     "Projetos",
-    "Kanban de Vendas.md",
-    "Calendário/2026-08-04.md",
-    "Dashboard de Vendas.md",
     "Calendário",
     "Diário/2026-08-04.md",
+    "Dashboard de Vendas.md",
     "Freelancer/USA - Solo-Small Law Firms/The Blake Law Firm.md",
     "Freelancer/USA - Solo-Small Law Firms/TAW Law TX (Law Office of Todd A. Wilson).md",
     "Freelancer/USA - Solo-Small Law Firms/Rech Law, P.C..md",
@@ -272,6 +234,8 @@
     "Freelancer/USA - Personal Trainer-Pilates/Austin Art of Fitness.md",
     "Freelancer/USA - Personal Trainer-Pilates",
     "Freelancer/USA - Boutique Architecture/Vanguard Studio, Inc..md",
+    "Freelancer/USA - Boutique Architecture/Scott Wilson Architect LLC.md",
+    "Freelancer/USA - Boutique Architecture/Nine12 Architects.md",
     "Freelancer/USA - Boutique Architecture",
     "Freelancer/USA - Barbershops",
     "Freelancer/Saloes Barbearias Sp",
