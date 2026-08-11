@@ -5,8 +5,7 @@ kanban-plugin: basic
 ---
 
 ## Backlog
-
-
+- [ ] [[Atualstylo]]
 
 ## Em Andamento
 - [ ] [[Cinema Cariri]]
