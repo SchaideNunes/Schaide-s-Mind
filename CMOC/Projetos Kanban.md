@@ -6,28 +6,28 @@ kanban-plugin: board
 
 ## Migrados
 
-- [ ] [[Aplicativo Horimetros]]
-- [ ] [[Checklist Correias]]
-- [ ] [[Inspeção Barragem]]
 - [ ] [[Gestão PPCM]]
-- [ ] [[Desktop indicadores - colaborador]]
-- [ ] [[Relatorios tanques]]
-- [ ] [[Desktop - Compra direta]]
-- [ ] [[HUB Planta]]
-- [ ] [[Gerenciamento Requisições]]
-- [ ] [[Custo planta]]
 
 
 ## 🚀 Funcionando
 
+- [ ] [[HUB Planta]]
+- [ ] [[Aplicativo Horimetros]]
 
 
 ## ⚠️ Com erro
 
+- [ ] [[Checklist Correias]]
+- [ ] [[Inspeção Barragem]]
+- [ ] [[Relatorios tanques]]
+- [ ] [[Gerenciamento Requisições]]
 
 
 ## ⏸️ Parado
 
+- [ ] [[Custo planta]]
+- [ ] [[Desktop - Compra direta]]
+- [ ] [[Desktop indicadores - colaborador]]
 
 
 ## 🔮 Futuros
