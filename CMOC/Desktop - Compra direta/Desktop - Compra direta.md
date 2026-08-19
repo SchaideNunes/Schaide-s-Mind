@@ -9,7 +9,8 @@ Documentação central e anotações gerais sobre o projeto Desktop - Compra dir
 - [ ] Mapear as próximas atividades do projeto.
 
 ## Ideias Futuras
+- [ ] Aplicativo Mobile para requisição
+- [ ] Migrar para uma aplicação Python
 - [ ] 
-
 ## Problemas e Pontos de Atenção
 - 
